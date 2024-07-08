@@ -1,6 +1,6 @@
 ++Purpose of the project:
 
--The goal of my project is to provide the user with the following information about two countries:
+-The goal of my project is to help the user to compare between two countries by providing the user with the following information:
 
 1- The capital.
 2- Population.
@@ -12,5 +12,4 @@
 ++How the user can execute the code:
 
 -The user simply should enter the names of the countries.
-
 
